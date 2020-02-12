@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971123159410",
+    "firebase_url": "https://listcitywinter2020.firebaseio.com",
+    "project_id": "listcitywinter2020",
+    "storage_bucket": "listcitywinter2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971123159410:android:67524b356e8cf03dc9adeb",
+        "android_client_info": {
+          "package_name": "com.example.simpleparadox.listycity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971123159410-fnt4uonue2rus365f9r1dbrars1mavjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaunNMt2_cC0HXQtf7Oqwfp3cjyfl7v4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971123159410-fnt4uonue2rus365f9r1dbrars1mavjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
